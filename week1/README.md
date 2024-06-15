@@ -46,7 +46,7 @@ React components are the building blocks of a React application. I focus on:
 
 React components can be created in two main ways:
 
-i. **Class Components:** These are ES6 classes that extend `React.Component` and define a `render()` method to describe the component's UI.
+- **Class Components:** These are ES6 classes that extend `React.Component` and define a `render()` method to describe the component's UI.
   
   Example of a class component:
   ```jsx
@@ -60,9 +60,9 @@ i. **Class Components:** These are ES6 classes that extend `React.Component` and
 
   export default MyComponent;
   ```
-  ii. **Functional Components:** These are simpler components based on JavaScript functions. Introduced in React 16.8, they use hooks like useState for managing state and are preferred for their simplicity and performance.
+- **Functional Components:** These are simpler components based on JavaScript functions. Introduced in React 16.8, they use hooks like useState for managing state and are preferred for their simplicity and performance.
 
-      Example of a class component:
+  Example of a class component:
 ```jsx
  import React from 'react';
 
