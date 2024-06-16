@@ -6,6 +6,6 @@ This repository contains my work for the Bytewise Fellowship program, where I do
 ## Purpose
 The main purpose of this repository is to:
 
-- Document your journey and achievements throughout the Bytewise Fellowship program.
+- Document my journey and achievements throughout the Bytewise Fellowship program.
 - Showcase the skills and knowledge gained week by week.
-- Provide transparency and visibility into your work for review and evaluation.
+- Provide transparency and visibility into my work for review and evaluation.
