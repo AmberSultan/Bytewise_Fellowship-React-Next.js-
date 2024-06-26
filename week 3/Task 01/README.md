@@ -1,5 +1,5 @@
 # Bytewise_Fellowship (React & Next.js)
-## Week 03 TASKS (26/06/24 - 30/06/24)
+## Week 03 (26/06/24)
 
 ### Day 01
 ## Task 01 - More on Hooks, advanced useState usecases for complex state and how to get rid of useState hell
