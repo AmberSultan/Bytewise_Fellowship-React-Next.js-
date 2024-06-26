@@ -4,6 +4,8 @@
 ### Day 01
 ## Task 01 - More on Hooks, advanced useState usecases for complex state and how to get rid of useState hell
 
+## ✔ Advanced `useState` Use Cases for Complex State Management
+
 This task includes:
 
 - some advanced techniques and best practices for utilizing useState effectively in complex scenarios
@@ -54,3 +56,5 @@ const decrement = () => {
 
 ### 5. Reducers with useState
 For more complex state transitions involving multiple sub-values, `useReducer` can be a more suitable alternative to manage state in a predictable way.
+
+## ✔ Getting rid of `useState` hell 
