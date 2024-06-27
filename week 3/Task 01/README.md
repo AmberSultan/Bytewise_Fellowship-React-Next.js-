@@ -58,3 +58,9 @@ const decrement = () => {
 For more complex state transitions involving multiple sub-values, `useReducer` can be a more suitable alternative to manage state in a predictable way.
 
 ## ✔ Getting rid of `useState` hell 
+
+1. Use `useReducer` for Complex State Management
+2. Custom Hooks
+3. Context API
+4. Component Composition ( Break down your components into smaller, reusable pieces )
+5. Avoid Overusing useState (Sometimes you may not need state at all. Rely on derived state from props or context when possible.)
