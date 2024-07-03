@@ -3,4 +3,6 @@
 
 📌This folder container all the tasks covered in week 4 of Bytewise Fellowship
 
-
+- What are npm projects?
+- What are libraries and frameworks ?
+- Routing in React, how is it different that vanilla HTML?
