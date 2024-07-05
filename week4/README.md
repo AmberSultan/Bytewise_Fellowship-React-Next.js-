@@ -7,3 +7,4 @@
 - What are libraries and frameworks ?
 - Routing in React, how is it different that vanilla HTML?
 - React router intro
+- Static Routing in react
