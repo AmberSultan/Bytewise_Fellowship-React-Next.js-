@@ -1,1 +1,1 @@
-
+- Dynamic routing ( useParams , react Outlet )
