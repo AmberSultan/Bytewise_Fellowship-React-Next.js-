@@ -25,3 +25,7 @@ const App = () => {
 
 export default App;
 ```
+
+- <b>initial:</b> Specifies the initial state of the element before the animation starts.
+- <b>animate:</b> Specifies the final state of the element after the animation is completed.
+- <b>transition:</b> Defines the duration and type of the transition.
